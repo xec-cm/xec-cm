@@ -8,6 +8,6 @@
 I'm a computational biologist 🤓 currently working as a postdoctoral researcher at the Microbial Genomics Group 🦠 at IrsiCaixa. As an R enthusiast 💻 and automation advocate 🤖, I strive to automate workflows using R, Docker 🐳, and AWS ☁️. I support open-source projects, promote scientific communication 🌐, and advocate for scientific reproducibility 🔄.
 
 ## :octocat: My GitHub Satas
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xec-cm&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xec-cm&theme=vue-dark&hide_border=false) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xec-cm&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=xec-cm&theme=vue-dark)](https://git.io/streak-stats) |
 | --- | --- |
 
